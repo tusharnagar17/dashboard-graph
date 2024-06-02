@@ -1,8 +1,15 @@
-# React + Vite
+## Dashboard with Recharts [Live Link🚀](https://dashboard-graph-on.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates how to create various types of charts using the Recharts library in a React application. The charts included are Pie Chart, Bar Chart, and Line Chart. The project covers several aspects of using Recharts, including installation, making charts responsive, and customizing charts with tooltips, legends, grids, and axes.
 
-Currently, two official plugins are available:
+## Here's What I learn 💻
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- What is Recharts
+- How to install Recharts
+- How to create Pie chat, Bar Chart and line Chart
+- How ot make chart responsive
+- How to customize charts
+- How to add a tooltip to charts and customize it.
+- How to add a legend to charts.
+- How to add a grid to charts.
+- How to add an x-axis and y-axis to your charts.
